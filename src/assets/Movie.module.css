@@ -1,0 +1,23 @@
+.moviePage {
+    background-color: rgb(28, 29, 28);
+    height: 100%;
+    padding: 40px;
+}
+
+
+.movieInfo {
+
+}
+
+.movieItem{
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.collection {
+    min-width: 300px;
+}
+
+.movieImg {
+    text-align: center;
+}
